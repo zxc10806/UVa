@@ -4,6 +4,10 @@
 #define lint long long int
 
 
+/*String Matching:
+Gusfield's Algorithm
+（ Z Algorithm ）*/
+
 char str[1080];
 int z[1050];
 void zfunc()
